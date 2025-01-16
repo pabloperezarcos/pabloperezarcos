@@ -6,7 +6,13 @@
 💻 **Stack Tecnológico**:
 - **Frontend**: Angular, TypeScript, JavaScript, HTML5, SCSS, JAVA
 - **Backend**: Node.js, Express.js., JAVA
-- **Bases de datos**: MySQL
+- **Bases de datos**: MySQL, Oracle Database
+- **Cloud**: 
+  - **Azure**: Configuración de recursos en Azure App Service y Azure SQL Database, integraciones con APIs RESTful.
+  - **AWS**: Experiencia básica con servicios como S3 (almacenamiento), EC2 (instancias virtuales) y RDS (bases de datos relacionales).
+- **Java**:
+  - Desarrollo de aplicaciones web con **Spring Boot** para manejar servicios RESTful.
+  - Conexión a bases de datos relacionales usando **JPA** e **Hibernate**.
 - **Otros**: Git, Docker.
 
 📈 **Proyectos recientes**:
