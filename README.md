@@ -1,7 +1,7 @@
-🔭 Actualmente estoy trabajando en **Carnes AG** como desarrollador Angular, enfocándome en la creación de interfaces dinámicas y modernas para aplicaciones web.
-🌱 Actualmente estoy aprendiendo **PHP**, **Swift** y explorando nuevas tecnologías de desarrollo para mantenerme actualizado.
-📫 Cómo contactarme: **pabloperezarcos@gmail.com**
-⚡ Dato curioso: ¡Me encanta jugar **Sudoku**!
+- 🔭 Actualmente estoy trabajando en **Carnes AG** como desarrollador Angular, enfocándome en la creación de interfaces dinámicas y modernas para aplicaciones web.
+- 🌱 Actualmente estoy aprendiendo **PHP**, **Swift** y explorando nuevas tecnologías de desarrollo para mantenerme actualizado.
+- 📫 Cómo contactarme: **pabloperezarcos@gmail.com**
+- ⚡ Dato curioso: ¡Me encanta jugar **Sudoku**!
 
 💻 **Stack Tecnológico**:
 - **Frontend**: Angular, TypeScript, JavaScript, HTML5, SCSS, JAVA
