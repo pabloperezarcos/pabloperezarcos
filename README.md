@@ -7,7 +7,7 @@
 
 💻 **Stack Tecnológico**:
 - **Frontend**: Angular, TypeScript, JavaScript, HTML5, SCSS, JAVA
-- **Backend**: Node.js, Express.js., JAVA con Spring Boot
+- **Backend**: Node.js, JAVA con Spring Boot
 - **Bases de datos**: MySQL, Oracle Database
 - **Cloud**: 
   - **Azure**:
@@ -24,13 +24,13 @@
 
 📈 **Proyectos recientes**:
 - 🧠 **Chatbot inteligente**: Implementación de un chatbot usando la API de OpenAI y Angular.
-- 🧾 **Sistema ERP**: Creación de un ERP en un sistema web para la gestión de Carnes AG.
+- 🧾 **Sistema ERP NucleoAG**: Creación de un ERP en un sistema web para la gestión de Carnes AG.
 - 🧩 **Módulo Sudoku**: Juego de Sudoku integrado al ERP, con restricciones horarias para uso recreativo controlado.
 - ☁️ **Azure Functions**: Arquitectura serverless para manejar operaciones CRUD desacopladas por entidad (usuarios, roles, inventarios, etc.), facilitando escalabilidad y mantenimiento.
 
 🎯 **Intereses profesionales**:
 - Inteligencia artificial y su integración con aplicaciones web.
-- Desarrollo móvil con IONIC y experimental con Swift.
+- Desarrollo móvil con IONIC.
 - Automatización de procesos en la industria alimentaria.
 - Optimización del rendimiento en aplicaciones Angular.
 
